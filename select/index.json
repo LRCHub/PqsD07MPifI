@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "サザエさん一家",
+  "base_artist": "Yuko Uno",
+  "createdAt": "2026-03-23T12:23:04.196127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サザエさん一家",
+      "artist": "東京ブラススタイル",
+      "has_synced": false,
+      "path": "select/01_サザエさん一家_東京ブラススタイル.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sazaesan ikka [サザエさん一家]",
+      "artist": "Tokyo Brass Style",
+      "has_synced": false,
+      "path": "select/02_Sazaesan_ikka_[サザエさん一家]_Tokyo_Brass_Style.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サザエさん一家",
+      "artist": "宇野ゆう子",
+      "has_synced": true,
+      "path": "select/03_サザエさん一家_宇野ゆう子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サザエさん一家",
+      "artist": "井上かおり",
+      "has_synced": false,
+      "path": "select/04_サザエさん一家_井上かおり.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サザエさん一家",
+      "artist": "宇野ゆう子",
+      "has_synced": false,
+      "path": "select/05_サザエさん一家_宇野ゆう子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サザエさん一家",
+      "artist": "宇野ゆう子",
+      "has_synced": false,
+      "path": "select/pl_01_サザエさん一家_宇野ゆう子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "サザエさん一家",
+      "artist": "宇野ゆう子",
+      "has_synced": false,
+      "path": "select/pl_02_サザエさん一家_宇野ゆう子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "サザエさん一家",
+      "artist": "宇野ゆう子",
+      "has_synced": false,
+      "path": "select/pl_03_サザエさん一家_宇野ゆう子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "サザエさん一家",
+      "artist": "宇野ゆう子",
+      "has_synced": false,
+      "path": "select/pl_04_サザエさん一家_宇野ゆう子.txt"
+    }
+  ]
+}
